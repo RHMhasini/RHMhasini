@@ -1,9 +1,12 @@
-<div align="center" style="padding: 20px; margin: 20px;">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Hasini%20👋&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" />
 </div>
 
+<!-- Purple margin box starts here -->
+<div align="center" style="border: 3px solid #9333EA; border-radius: 15px; padding: 30px; margin: 20px;">
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=3rd+Year+Data+Science+Student;2nd+Semester+Undergraduate;at+SLIIT;Building+Intelligent+Systems;Machine+Learning+%26+AI+Enthusiast;Turning+Data+into+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=2000&color=00D9FF&center=true&vCenter=true&width=800&lines=3rd+Year+2nd+Semester+Data+Science+Student;Building+Intelligent+Systems;Machine+Learning+%26+AI+Enthusiast;Turning+Data+into+Insights" alt="Typing SVG" />
 </div>
 
 <br>
@@ -12,11 +15,11 @@
 
 <p align="center">
   <a href="mailto:hasini.rhm@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt="Email"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/hasini-herath">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn"/>
   </a>
 </p>
 
@@ -38,6 +41,9 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
+
+<!-- Purple margin box ends here -->
+</div>
 
 <br>
 
