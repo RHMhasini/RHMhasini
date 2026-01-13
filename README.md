@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="90%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:2ecc71,100:000000&height=100&section=header&text=Dinuka%20Madhushan&fontSize=50&fontAlignY=45&animation=twinkling&desc=AI%20/%20ML%20Engineer&descAlignY=65&descSize=20"/>
+<img width="90%" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:2ecc71,100:000000&height=150&section=header&text=Dinuka%20Madhushan&fontSize=50&fontAlignY=45&animation=twinkling&desc=AI%20/%20ML%20Engineer&descAlignY=65&descSize=20"/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/GPA-3.65%2F4.0-2ecc71?style=for-the-badge&logo=google-scholar&logoColor=white" alt="GPA"/>
