@@ -1,9 +1,9 @@
-<div align="center">
+<div align="center" style="padding: 20px; margin: 20px;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Hasini%20👋&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=3rd+Year+Data+Science+Student+at+SLIIT;Building+Intelligent+Systems;Machine+Learning+%26+AI+Enthusiast;Turning+Data+into+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=3rd+Year+Data+Science+Student;2nd+Semester+Undergraduate;at+SLIIT;Building+Intelligent+Systems;Machine+Learning+%26+AI+Enthusiast;Turning+Data+into+Insights" alt="Typing SVG" />
 </div>
 
 <br>
@@ -12,10 +12,11 @@
 
 <p align="center">
   <a href="mailto:hasini.rhm@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/hasini-herath">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40"/>
   </a>
 </p>
 
