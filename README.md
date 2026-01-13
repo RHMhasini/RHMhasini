@@ -13,12 +13,13 @@
 ## 📫 How to reach me
 
 <a href="mailto:hasini.rhm@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="45" height="45" alt="Email"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/hasini-herath">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="45" height="45" alt="LinkedIn"/>
 </a>
+>
 
 <br><br>
 
