@@ -17,7 +17,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="45" height="45" alt="Email"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/hasini-herath">
+  <a href="https://www.linkedin.com/in/hasini-herath-rhm">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="45" height="45" alt="LinkedIn"/>
   </a>
 </p>
