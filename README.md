@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=500&pause=3000&color=00D9FF&center=true&vCenter=true&width=800&lines=3rd+Year+2nd+Semester+Student+at+SLIIT;Building+Intelligent+Systems;Machine+Learning+%26+AI+Enthusiast;Turning+Data+into+Insights" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=500&pause=3000&color=00D9FF&center=true&vCenter=true&width=800&lines=3rd+Year+2nd+Semester+Student+at+SLIIT;Building+Intelligent+Systems;Turning+Data+into+Insights" alt="Typing SVG" />
 
 <br>
 
