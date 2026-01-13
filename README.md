@@ -10,7 +10,7 @@
 <td align="center" style="border: 4px solid #9333EA;">
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1500&color=00D9FF&center=true&vCenter=true&width=800&lines=3rd+Year+2nd+Semester+Student+at+SLIIT;Building+Intelligent+Systems;Machine+Learning+%26+AI+Enthusiast;Turning+Data+into+Insights&animation=fade" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1500&color=00D9FF&center=true&vCenter=true&width=800&lines=3rd+Year+2nd+Semester+Student+at+SLIIT;Building+Intelligent+Systems;Machine+Learning+%26+AI+Enthusiast;Turning+Data+into+Insights&type=fade" alt="Typing SVG" />
 </div>
 
 <br>
