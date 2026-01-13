@@ -1,48 +1,73 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Hasini%20👋&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" />
+
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:667eea,50:764ba2,100:f093fb&height=200&section=header&text=&fontSize=0&animation=twinkling"/>
+
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1500&pause=1000&color=667EEA&center=true&vCenter=true&repeat=false&width=800&height=100&lines=Dinuka+Madhushan" alt="Name" />
+</h1>
+
+<h3 style="color: #667eea;">
+  🎓 Electronic & Telecommunication Engineering @ University of Moratuwa<br/>
+  🤖 AI/ML Engineer | Computer Vision Enthusiast
+</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/GPA-3.65%2F4.0-brightgreen?style=flat-square&logo=google-scholar&logoColor=white" alt="GPA"/>
+  <img src="https://img.shields.io/badge/Dean's%20List-Scholar-gold?style=flat-square&logo=achievement&logoColor=white" alt="Dean's List"/>
+</p>
+
 </div>
 
-<br>
+---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=500&pause=3000&color=00D9FF&center=true&vCenter=true&width=800&lines=3rd+Year+2nd+Semester+Student+at+SLIIT;Building+Intelligent+Systems;Machine+Learning+%26+AI+Enthusiast;Turning+Data+into+Insights" alt="Typing SVG" />
+## 📬 Connect With Me
 
-<br>
+<a href="mailto:dinukamadhushan1234@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="45" height="45" alt="Email"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/dinuka-madhushan-771521268/">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="45" height="45" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/DinukaMadhushan1234">
+  <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="45" height="45" alt="GitHub"/>
+</a>
 
-## 📫 How to reach me
+</div>
 
-<p align="center">
-  <a href="mailto:hasini.rhm@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="45" height="45" alt="Email"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/hasini-herath-rhm">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="45" height="45" alt="LinkedIn"/>
-  </a>
-</p>
+---
 
-<br>
+<div align="center">
 
 ## 🛠️ Tech Stack
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,verilog,pytorch,tensorflow,numpy,pandas,scikit,opencv,react,nodejs,html,css,javascript,mongodb" />
 
 </div>
 
-<br>
+---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
+## 🔹 Highlights
+
+- 🔬 AI/ML & Computer Vision Enthusiast
+- 🎯 Current Work: AI Engineer Intern at Pekoe Pte Ltd
+- 🏅 Academic: Dean's List & GPA 3.65/4.0
+- 🚀 Research & Projects: Self-Supervised Learning, MLOps, IoT Applications
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=120&section=footer"/>
+
+**"Turning Data into Intelligent Systems"**
+
 </div>
