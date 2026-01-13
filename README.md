@@ -25,6 +25,11 @@ LinkedIn - [Hasini Herath](https://www.linkedin.com/in/hasini-herath)
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RHMhasini&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RHMhasini&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RHMhasini&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RHMhasini&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
 
