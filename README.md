@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/GPA-3.65%2F4.0-2ecc71?style=for-the-badge&logo=google-scholar&logoColor=white" alt="GPA"/>
-  <img src="https://img.shields.io/badge/Dean's%20List-Scholar-red?style=for-the-badge&logo=target&logoColor=white" alt="Dean's List"/>
+  <img src="https://img.shields.io/badge/Dean's%20List-In 3 semesters-red?style=for-the-badge&logo=target&logoColor=white" alt="Dean's List"/>
 </p>
 
 ---
