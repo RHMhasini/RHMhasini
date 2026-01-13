@@ -12,16 +12,17 @@
 
 ## 📫 How to reach me
 
-<a href="mailto:hasini.rhm@gmail.com">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="45" height="45" alt="Email"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/hasini-herath">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="45" height="45" alt="LinkedIn"/>
-</a>
->
+<p align="center">
+  <a href="mailto:hasini.rhm@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="45" height="45" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/hasini-herath">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="45" height="45" alt="LinkedIn"/>
+  </a>
+</p>
 
-<br><br>
+<br>
 
 ## 🛠️ Tech Stack
 
